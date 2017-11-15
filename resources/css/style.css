@@ -1,5 +1,4 @@
 .header {
-  font-family: verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -13,8 +12,9 @@
   text-align: center;
 }
 
-html {
+body {
   background-color: black;
+  font-family: verdana;
 }
 
 video {
